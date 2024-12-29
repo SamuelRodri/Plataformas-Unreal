@@ -1,0 +1,28 @@
+[1218/201622.751:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
+[1218/201622.751:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 19
+[1218/201622.751:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 11
+[1218/201622.762:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 9
+[1218/201622.774:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 15
+[1218/201622.795:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 17
+[1218/201819.624:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1218/210300.655:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/210300.657:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/210300.664:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/210300.665:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.531:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.538:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.538:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.809:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.810:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.825:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.828:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.840:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.841:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.854:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213245.854:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213340.480:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213340.481:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213340.720:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/213340.728:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/221403.432:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1218/221403.440:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
