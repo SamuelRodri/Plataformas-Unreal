@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Plataformas3D/Saved/Logs/Plataformas.log
+/Plataformas3D/Saved/Logs
+/Plataformas3D/Saved
+/Plataformas3D/Saved
+Plataformas3D/Saved/Telemetry/Telemetry.json
+Plataformas3D/Saved/Logs/Plataformas.log
